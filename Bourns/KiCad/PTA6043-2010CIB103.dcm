@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTA6043-2010CIB103
+D BOURNS - PTA6043-2010CIB103 - POTENTIOMETER SLIDE, 10KOHM, 250mW, +/-20%
+K
+F https://www.bourns.com/pdfs/PTA.pdf
+$ENDCMP
+#
+#End Doc Library
